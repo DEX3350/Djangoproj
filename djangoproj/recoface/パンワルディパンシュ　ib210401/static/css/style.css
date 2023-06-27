@@ -1,0 +1,63 @@
+body {
+    background-color: #80affa;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 50px;
+}
+
+form {
+    margin-bottom: 50px;
+    text-align: left;
+    display: inline-block;
+}
+
+select {
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.2em;
+    text-align: center;
+
+}
+
+
+
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+#id_div_ajax_response_src {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+  
+
+#id_div_ajax_response_dest {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+  
